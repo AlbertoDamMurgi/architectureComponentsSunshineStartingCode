@@ -11,11 +11,15 @@ MERGED from [com.android.support:appcompat-v7:26.0.1] /home/usuario/.gradle/cach
 MERGED from [com.android.support:recyclerview-v7:26.0.1] /home/usuario/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.1.aar/fe8193a3cd684fe6328ff47872ea8018/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /home/usuario/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/a42ff5defd251234010020b552219573/AndroidManifest.xml:2:1-11:12
 MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/0a61e10365f793ae6da93c1f9c05d19a/AndroidManifest.xml:17:1-42:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha9] /home/usuario/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha9.aar/31ba3f4fd0b08282e021a41e6cb87189/AndroidManifest.xml:17:1-26:12
 MERGED from [com.android.support:support-v4:26.0.1] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/809799efd627408d58afed955b5dba12/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:animated-vector-drawable:26.0.1] /home/usuario/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/5b11b81b894a8c3f5685e4eae7b6234a/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.0.1] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/5bda62a04812253276ed41b4adabbe63/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-fragment:26.0.1] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/5154239078ffa69ca8651911cf3d0e8b/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-ui:26.0.1] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/539bbf01a26358b7caa7d5c8e3848ae8/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.persistence.room:support-db-impl:1.0.0-alpha9] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-db-impl-1.0.0-alpha9.aar/806f141c561c83b3bd63a7f1ea595fa4/AndroidManifest.xml:17:1-26:12
+MERGED from [android.arch.persistence.room:support-db:1.0.0-alpha9] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-db-1.0.0-alpha9.aar/2e597e253ae8a26eadfe4b135816a14f/AndroidManifest.xml:17:1-26:12
+MERGED from [android.arch.core:runtime:1.0.0-alpha9] /home/usuario/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha9.aar/59cc2e2b8609f6dad4d2fbf5887132a9/AndroidManifest.xml:17:1-26:12
 MERGED from [com.android.support:support-media-compat:26.0.1] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/818bdf829d4494a35cb9c5a10c85e029/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-utils:26.0.1] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/76d97399f89ef3a92f8e5073e19da68a/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.0.1] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/bbb86ec563463bb26c7b880add1a1462/AndroidManifest.xml:17:1-31:12
@@ -150,6 +154,8 @@ MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /home
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /home/usuario/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/a42ff5defd251234010020b552219573/AndroidManifest.xml:5:5-7:41
 MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/0a61e10365f793ae6da93c1f9c05d19a/AndroidManifest.xml:22:5-24:41
 MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /home/usuario/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/0a61e10365f793ae6da93c1f9c05d19a/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha9] /home/usuario/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha9.aar/31ba3f4fd0b08282e021a41e6cb87189/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha9] /home/usuario/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha9.aar/31ba3f4fd0b08282e021a41e6cb87189/AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:support-v4:26.0.1] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/809799efd627408d58afed955b5dba12/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-v4:26.0.1] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/809799efd627408d58afed955b5dba12/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:animated-vector-drawable:26.0.1] /home/usuario/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/5b11b81b894a8c3f5685e4eae7b6234a/AndroidManifest.xml:20:5-44
@@ -160,6 +166,12 @@ MERGED from [com.android.support:support-fragment:26.0.1] /home/usuario/.gradle/
 MERGED from [com.android.support:support-fragment:26.0.1] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/5154239078ffa69ca8651911cf3d0e8b/AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-core-ui:26.0.1] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/539bbf01a26358b7caa7d5c8e3848ae8/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-ui:26.0.1] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/539bbf01a26358b7caa7d5c8e3848ae8/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.persistence.room:support-db-impl:1.0.0-alpha9] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-db-impl-1.0.0-alpha9.aar/806f141c561c83b3bd63a7f1ea595fa4/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:support-db-impl:1.0.0-alpha9] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-db-impl-1.0.0-alpha9.aar/806f141c561c83b3bd63a7f1ea595fa4/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:support-db:1.0.0-alpha9] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-db-1.0.0-alpha9.aar/2e597e253ae8a26eadfe4b135816a14f/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:support-db:1.0.0-alpha9] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-db-1.0.0-alpha9.aar/2e597e253ae8a26eadfe4b135816a14f/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.core:runtime:1.0.0-alpha9] /home/usuario/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha9.aar/59cc2e2b8609f6dad4d2fbf5887132a9/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.core:runtime:1.0.0-alpha9] /home/usuario/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha9.aar/59cc2e2b8609f6dad4d2fbf5887132a9/AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:support-media-compat:26.0.1] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/818bdf829d4494a35cb9c5a10c85e029/AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-media-compat:26.0.1] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/818bdf829d4494a35cb9c5a10c85e029/AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-core-utils:26.0.1] /home/usuario/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/76d97399f89ef3a92f8e5073e19da68a/AndroidManifest.xml:21:5-23:61
