@@ -29,5 +29,5 @@ public interface WeatherDao {
     LiveData<WeatherEntry> getWeatherByDate(Date date);
 
     @Query("select * from weather where date >= :date")
-    LiveData<List<WeatherEntry>> getCurrentWeatherForecasts(Date today);
+    LiveData<List<WeatherEntry>> getCurrentWeatherForecasts(Date date);
 }
